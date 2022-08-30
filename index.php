@@ -1,3 +1,6 @@
+<?php
+ include('path.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -19,7 +22,7 @@
     
 <!-- header -->
 <?php
-  include(ROOT_PATH .'app/includes/header.php')
+  include(ROOT_PATH .'/app/includes/header.php');
 ?>
 
     <!-- page wrapper -->

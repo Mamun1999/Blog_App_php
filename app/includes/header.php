@@ -1,11 +1,11 @@
 <header>
-        <div class="logo">
+        <a href="<?php echo BASE_URL ."/index.php"?>" class="logo">
             <h1 class="logo-text"><span>Sports</span>Galaxy</h1>
-        </div>
+</a>
         <i class="fa fa-bars menu-toggle"></i>
         <ul class="nav">
 
-            <li> <a href="#">Home</a>
+            <li> <a href="<?php echo BASE_URL ."/index.php"?>">Home</a>
 
             </li>
 
